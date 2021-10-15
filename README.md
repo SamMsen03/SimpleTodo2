@@ -26,13 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/sAR4bDa.gif' title='Add and Remove' width='' alt='Add and Remove' />
+<img src='https://i.imgur.com/KDNeOx8.gif' title='Save & Load after close' width='' alt='Save & Load after close' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I didn't come across too many challenges, though without some comments left over made things difficult to remember where I left off. Commenting was a big help. The 'design' tab was a bit of a challenge as well, aligning everything up properly.
 
 ## License
 
